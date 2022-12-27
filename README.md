@@ -14,7 +14,7 @@ The user can generate a new lottery number by clicking the refresh button. The a
 * Expansion tile with the rules of the game.
 >
 ## Screenshots
-![Login-UI](Screenshots/LoginUIKIT.jpg)
+![Lottery-app](Screenshots/Lottery_Application.jpg)
 
 
 ## Color Reference
